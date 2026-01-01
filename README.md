@@ -44,7 +44,7 @@
 
 <h3>🧸 Fun facts</h3>
 
-* ʕ•́ᴥ•̀ʔっ I love solving coding challenges while listening to lofi music.
+* ʕ•́ᴥ•̀ʔっ I love solving coding challenges while listening to musics.
 * 🎨 I enjoy creating digital "scrapbook" layouts and pixel art.
 * 🍰 My dream is to build technology that looks as beautiful as it functions.
 
