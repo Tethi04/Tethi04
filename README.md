@@ -1,9 +1,9 @@
 <div align="center">
 
-# 🎀 Hi, I'm Tethi Biswas! ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Hi,%20I'm%20Tethi%20Biswas!%20✨&fontSize=45&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=28&pause=1000&color=F78FB3&center=true&vCenter=true&width=435&lines=BSc+Computer+Science+Student;Python+Developer;Web+Developer;Welcome+to+my+cute+space!+🌸">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&pause=1000&color=F78FB3&center=true&vCenter=true&width=500&lines=BSc+Computer+Science+Student;Python+Developer+💖;Web-Developer;Japanese+Language+Learner+🌸">
 </p>
 
 ---
@@ -12,8 +12,8 @@
 <h3>☁️ About me</h3>
 
 * 🌸 I am a 5th-semester BSc Computer Science student at **Siliguri College**, affiliated with **North Bengal University**.
-* 🎀 Passionate about writing clean, aesthetic code and exploring **Cybersecurity**.
-* 🇯🇵 Interested in **Japanese language** and culture.
+* 🎀 Passionate about writing clean, aesthetic code and exploring everything.
+* 🇯🇵 Interested in many languages specially in, **Japanese language** and cultures.
 * 🍬 Always exploring new ways to combine logic with cute designs like **Everskies pixel art**.
 
 ---
@@ -61,8 +61,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tethi04&show_icons=true&theme=rose_pine&hide_border=true&bg_color=FFF0F5" alt="Tethi's Stats" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tethi04&show_icons=true&theme=rose_pine&hide_border=true" alt="Tethi's Stats" height="150px"/>
 </p>
 
 </div>
-
