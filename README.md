@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Hi,%20I'm%20Tethi%20Biswas!%20✨&fontSize=42&animation=fadeIn&fontAlignY=38&fontColor=ffffff" width="100%"/>
+<!-- Y2K Retro Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:00FFFF&height=220&section=header&text=💫%20Hi%20👋,%20I'm%20Tethi%20Biswas!%20✨&fontSize=32&animation=fadeIn&fontAlignY=38&fontColor=ffffff&font=Press+Start+2P" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=BSc+Computer+Science+Student+👾;Python+&+Full-Stack+Developer+💖;Webtoon+Creator+&+Game+Dev+🌸">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=BSc+Computer+Science+Student+👾;Python+&+Full-Stack+Developer+💖;Webtoon+Creator+&+Game+Dev+🌸">
 </p>
 
 💻 A passionate **Computer Science Student** | **Python & Web Developer** | **Casual Game Dev** | **Y2K Aesthetic Enthusiast** from India 🇮🇳
@@ -11,8 +12,6 @@
 📧 Email Me 👉 [biswastethi2004@gmail.com](mailto:biswastethi2004@gmail.com) for Collaboration, Open-Source Projects, or Tech Discussions 😊
 
 ---
-
-<div align="left">
 
 ### 🔭 I’m currently working on:
 * 🌸 **Academic Excellence** – 5th-semester BSc Computer Science student at Siliguri College (North Bengal University).
@@ -39,13 +38,9 @@
 
 ---
 
-### 🐍 Contribution Grid:
+### 🐍 Cute Y2K Snake Animation:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tethi04&theme=react-dark&bg_color=180e29&hide_border=true&color=ff69b4" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Cute Snake Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Tethi04/Tethi04/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </p>
 
 ---
@@ -76,12 +71,12 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tethi04&show_icons=true&theme=rose_pine&hide_border=true&bg_color=180e29&title_color=ff69b4&icon_color=00ffff" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tethi04&layout=compact&theme=rose_pine&hide_border=true&bg_color=180e29&title_color=ff69b4" height="165px"/>
+  <img src="https://metrics.lecoq.io/Tethi04?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&config.timezone=Asia%2FKolkata&theme=synthwave" alt="GitHub Stats Layout" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tethi04&theme=rose_pine&background=180e29&hide_border=true&ring=ff69b4&fire=00ffff" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tethi04&show_icons=true&theme=synthwave&hide_border=false" alt="Tethi's Stats" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tethi04&layout=compact&theme=synthwave&hide_border=false" alt="Top Languages" height="160px"/>
 </p>
 
 ---
@@ -90,9 +85,8 @@
 
 | Project | GitHub | Live |
 |---|---|---|
-| **Princess's Fruit Crunch** : A fun browser match-3 puzzle game featuring cute fruit elements and aesthetic gameplay. | [View on GitHub](https://github.com/Tethi04) | [Live Link](https://tethi04.github.io/Princess-Fruit-Crunch/) |
-| **Leo - Voice Assistant** : A smart Python-driven voice assistant designed to execute desktop tasks and automated commands smoothly. | [View on GitHub](https://github.com/Tethi04) | [Live Link](https://github.com/Tethi04) |
-| **Color Hex Detector** : A clean web tool to detect hex codes and inspect colors instantly for designer-friendly workflows. | [View on GitHub](https://github.com/Tethi04) | [Live Link](https://github.com/Tethi04) |
+| **Princess's Fruit Crunch** : A fun browser match-3 puzzle game featuring cute fruit elements and aesthetic gameplay. | [View on GitHub](https://github.com/Tethi04/Princess-Fruit-Crunch) | [Live Link](https://tethi04.github.io/Princess-Fruit-Crunch/) |
+| **Leo - Voice Assistant** : A smart Python-driven voice assistant designed to execute desktop tasks and automated commands smoothly. | [View on GitHub](https://github.com/Tethi04/Leo-Voice-Assistant) | [Live Link](https://github.com/Tethi04/Leo-Voice-Assistant) |
+| **Color Hex Detector** : A clean web tool to detect hex codes and inspect colors instantly for designer-friendly workflows. | [View on GitHub](https://github.com/Tethi04/Color-Hex-Detector) | [Live Link](https://github.com/Tethi04/Color-Hex-Detector) |
 
-</div>
 </div>
