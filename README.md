@@ -36,7 +36,7 @@
 
 ---
 
-### 🐍 Contribution Activity:
+### 🐍 Cute Snake Contribution Graph:
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tethi04/Tethi04/output/github-contribution-grid-snake.svg" alt="Cute Snake Animation" width="100%"/>
 </p>
@@ -62,10 +62,10 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats Dashboard:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tethi04/Tethi04/master/metrics.svg" alt="Tethi's Metrics" width="100%"/>
+  <img src="metrics.svg" alt="Tethi's Metrics Dashboard" width="100%"/>
 </p>
 
 ---
