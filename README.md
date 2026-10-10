@@ -36,7 +36,11 @@
 
 ---
 
-### 🐍 Cute Snake Contribution Graph:
+### 🐍 Contribution Activity:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tethi04&theme=synthwave&hide_border=true&area=true" width="100%" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tethi04/Tethi04/output/github-contribution-grid-snake.svg" alt="Cute Snake Animation" width="100%"/>
 </p>
@@ -62,10 +66,11 @@
 
 ---
 
-### 📊 GitHub Stats Dashboard:
+### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="metrics.svg" alt="Tethi's Metrics Dashboard" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tethi04&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="Tethi's Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tethi04&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" height="180px"/>
 </p>
 
 ---
@@ -74,8 +79,8 @@
 
 | Project | GitHub | Live |
 |---|---|---|
-| **Princess's Fruit Crunch** : A fun browser match-3 puzzle game featuring cute fruit elements and aesthetic gameplay. | [View on GitHub](https://github.com/Tethi04) | [Live Link](https://tethi04.github.io/Princess-Fruit-Crunch/) |
-| **Leo - Voice Assistant** : A smart Python-driven voice assistant designed to execute desktop tasks and automated commands smoothly. | [View on GitHub](https://github.com/Tethi04) | [Live Link](https://github.com/Tethi04) |
-| **Color Hex Detector** : A clean web tool to detect hex codes and inspect colors instantly for designer-friendly workflows. | [View on GitHub](https://github.com/Tethi04) | [Live Link](https://github.com/Tethi04) |
+| **Princess's Fruit Crunch** : A fun browser match-3 puzzle game featuring cute fruit elements and aesthetic gameplay. | [View on GitHub](https://github.com/Tethi04/Princess-Fruit-Crunch) | [Live Link](https://tethi04.github.io/Princess-Fruit-Crunch/) |
+| **Leo - Voice Assistant** : A smart Python-driven voice assistant designed to execute desktop tasks and automated commands smoothly. | [View on GitHub](https://github.com/Tethi04/Leo) | [Live Link](https://github.com/Tethi04/Leo) |
+| **Color Hex Detector** : A clean web tool to detect hex codes and inspect colors instantly for designer-friendly workflows. | [View on GitHub](https://github.com/Tethi04/Color-Hex-Detector) | [Live Link](https://tethi04.github.io/Color-Hex-Detector/) |
 
 </div>
