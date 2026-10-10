@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,100:00ffff&height=220&section=header&text=💫%20Hi%20👋,%20I'm%20Tethi%20Biswas!%20✨&fontSize=38&animation=fadeIn&fontAlignY=38&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Hi,%20I'm%20Tethi%20Biswas!%20✨&fontSize=42&animation=fadeIn&fontAlignY=38&fontColor=ffffff" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=BSc+Computer+Science+Student+👾;Python+&+Full-Stack+Developer+💖;Webtoon+Creator+&+Game+Dev+🌸">
@@ -11,6 +11,8 @@
 📧 Email Me 👉 [biswastethi2004@gmail.com](mailto:biswastethi2004@gmail.com) for Collaboration, Open-Source Projects, or Tech Discussions 😊
 
 ---
+
+<div align="left">
 
 ### 🔭 I’m currently working on:
 * 🌸 **Academic Excellence** – 5th-semester BSc Computer Science student at Siliguri College (North Bengal University).
@@ -37,9 +39,13 @@
 
 ---
 
-### 🐍 Contribution Activity:
+### 🐍 Contribution Grid:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tethi04/Tethi04/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tethi04&theme=react-dark&bg_color=180e29&hide_border=true&color=ff69b4" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Cute Snake Animation" width="100%"/>
 </p>
 
 ---
@@ -70,8 +76,12 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tethi04&show_icons=true&theme=rose_pine&hide_border=true" alt="Tethi's Stats" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tethi04&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tethi04&show_icons=true&theme=rose_pine&hide_border=true&bg_color=180e29&title_color=ff69b4&icon_color=00ffff" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tethi04&layout=compact&theme=rose_pine&hide_border=true&bg_color=180e29&title_color=ff69b4" height="165px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tethi04&theme=rose_pine&background=180e29&hide_border=true&ring=ff69b4&fire=00ffff" height="165px"/>
 </p>
 
 ---
@@ -84,4 +94,5 @@
 | **Leo - Voice Assistant** : A smart Python-driven voice assistant designed to execute desktop tasks and automated commands smoothly. | [View on GitHub](https://github.com/Tethi04) | [Live Link](https://github.com/Tethi04) |
 | **Color Hex Detector** : A clean web tool to detect hex codes and inspect colors instantly for designer-friendly workflows. | [View on GitHub](https://github.com/Tethi04) | [Live Link](https://github.com/Tethi04) |
 
+</div>
 </div>
