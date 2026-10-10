@@ -1,0 +1,30 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+  # Lowlighter Metrics action setup for exact multi-card layout
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: Tethi04
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_lines: yes
+          plugin_languages: yes
+          plugin_languages_ignored: ""
+          plugin_languages_details: bytes, percentage
+          plugin_languages_limit: 6
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          
