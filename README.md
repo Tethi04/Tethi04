@@ -36,11 +36,7 @@
 
 ---
 
-### 🐍 Cute Snake Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tethi04&theme=synthwave&hide_border=true&area=true" width="100%" />
-</p>
-
+### 🐍 Contribution Activity:
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tethi04/Tethi04/output/github-contribution-grid-snake.svg" alt="Cute Snake Animation" width="100%"/>
 </p>
@@ -70,11 +66,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tethi04/Tethi04/master/metrics.svg" alt="Tethi's Metrics" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tethi04&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="Tethi's Stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tethi04&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" height="160px"/>
 </p>
 
 ---
